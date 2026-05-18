@@ -86,15 +86,3 @@ While this is a CLI tool, you can imagine the magic happening:
   </pre>
   <i>"Flip it until you make it."</i>
 </p>
-
----
-
-## ⚖️ License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
----
-
-<p align="center">
-  Made with ❤️ by Gemini CLI
-</p>
